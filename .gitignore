@@ -1,0 +1,21 @@
+# Ignore the Python virtual environment
+agri-bot-env/
+venv/
+
+# Ignore the "secret" file
+.streamlit/secrets.toml
+
+# Ignore system files
+__pycache__/
+.DS_Store
+*.pyc
+
+# Ignore the trained model
+agri-bot-model-v2/
+
+# Ignore the vector store "libraries"
+faiss_v1/
+faiss_v2/
+
+# Ignore the raw PDF data
+data/

@@ -1,0 +1,1018 @@
+[
+    {
+        "query": "What do leaf blast symptoms look like on rice?",
+        "positive": "On leaves, the spots are typically spindle shaped (Eye shaped) with dark brown margin and grey center (Leaf blast)."
+    },
+    {
+        "query": "My rice plants are stunted and turning yellow to orange, what is it?",
+        "positive": "The chief symptoms are stunted growth of plant, reduced tillering, discolouration of leaves in various shades of yellow to orange."
+    },
+    {
+        "query": "Why are some of my rice grains turning into big green velvety masses?",
+        "positive": "Affected grains get converted into green velvety mass that are much bigger than the normal grains."
+    },
+    {
+        "query": "What are the signs of downy mildew on pearl millet leaves?",
+        "positive": "Affected leaf exhibits white downy growth in patches on its lower surface. These patches expand and cover the entire lamina which turns yellow in due course."
+    },
+    {
+        "query": "Why are my pearl millet earheads turning into green leafy structures?",
+        "positive": "Green ear stage: The earheads are converted into green leafy structures either partially or fully."
+    },
+    {
+        "query": "I see large cigar-shaped tan lesions on my maize leaves, what is this?",
+        "positive": "Mature symptoms are characteristic cigar shaped lesions that are 3 to 15cm long. Lesions are elliptical and tan in color, developing distinct dark areas as they mature that are associated with fungal sporulation."
+    },
+    {
+        "query": "My redgram plants are wilting and turning yellow with black stems at the base, what could be wrong?",
+        "positive": "The infected plants show gradual wilting and drying. Yellowing and premature drying of leaves and stems are noticed. The basal portion of stem and root region becomes black."
+    },
+    {
+        "query": "What is the 'black arm' stage in cotton bacterial blight?",
+        "positive": "On the surface of stems and branches, elongate black lesions are observed. This causes breaking of the branches which hang on the affected plant. This is black arm stage."
+    },
+    {
+        "query": "The inside of my sugarcane stalks is red with white patches, what disease is this?",
+        "positive": "In the affected canes, the internal tissues become red with cross white patches. The stalks become hollow."
+    },
+    {
+        "query": "My sugarcane central shoot has turned into a long curved whip, what is it?",
+        "positive": "The affected plants are stunted and the central shoot is converted into a long curved whip like sorus."
+    },
+    {
+        "query": "What are the symptoms of late leaf spot on groundnut?",
+        "positive": "Late leaf spot: Leaves show dark, small, circular spots scattered on the surface and appear in large numbers. The lower surface of the lesion turns to carbonaceous black."
+    },
+    {
+        "query": "I see powdery pustules on the underside of my groundnut leaves, what is it?",
+        "positive": "The leaflets exhibit large number of small powdery pustules on the lower surface. Correspondingly the upper surface shows yellow discolouration which later turns brown."
+    },
+    {
+        "query": "My sunflower heads are turning soft, brown, and rotting, what is causing this?",
+        "positive": "Affected heads show water soaked lesions on the lower surface, which turn brown. The head turns soft, pulpy and tissues putrefy."
+    },
+    {
+        "query": "Why are my gingelly flowers turning into green leafy structures giving a bushy look?",
+        "positive": "The floral parts are altered into green leafy, phylloid structures. Plant exhibits clusters of leaves at the axil and also at the terminal portion which gives a bushy appearance to the plant."
+    },
+    {
+        "query": "What do brown leaf spot symptoms look like on rice leaves?",
+        "positive": "On leaves, the spots are rectangular or oval resembling a sesame seed. They are uniformly brown or reddish brown with discrete margin"
+    },
+    {
+        "query": "What are these small black spots on my mango leaves?",
+        "positive": "On leaves, lesions start as small, angular, brown to black spots and later enlarge to form extensive dead areas."
+    },
+    {
+        "query": "My mango tree branches look like they've been burned by fire.",
+        "positive": "The disease is characterized by drying of twigs and branches followed by complete defoliation, which gives the tree an appearance of scorching by fire."
+    },
+    {
+        "query": "Why do my mango flowers have a white powdery coating?",
+        "positive": "Appearance of a whitish, powdery growth of the fungus on leaves, panicles and young fruit which later turns brown and fall."
+    },
+    {
+        "query": "My banana leaves are turning yellow and drooping around the stem like a skirt.",
+        "positive": "Symptoms are characterized by yellowing of leaves from margins inwards towards mid rib. Petiole buckling takes place; as a result leaves hang around the pseudostem forming yellow skirt like pattern."
+    },
+    {
+        "query": "I'm seeing dark green streaks along the veins of my banana leaves.",
+        "positive": "Characteristic symptom of bunchy top virus is the presence of interrupted dark green streaks along the secondary veins of the lamina or the midrib of the petiole."
+    },
+    {
+        "query": "What's causing bull's-eye patterns on my tomato leaves?",
+        "positive": "Small, black spots enlarge and concentric rings in a bull's eye pattern can be seen in the center of the diseased area."
+    },
+    {
+        "query": "The tender twigs on my chili plant are dying from the tip backwards.",
+        "positive": "Necrosis of tender twigs from the tip backwards, profuse shedding of flowers."
+    },
+    {
+        "query": "My brinjal (eggplant) has extremely small leaves and a bushy appearance.",
+        "positive": "Reduction in leaf size. As disease progresses leaves become smaller, croded and the petioles become shorter. Later leaves become thin narrow and glabrous. Plant gives bushy appearance."
+    },
+    {
+        "query": "My watermelon stems are exuding a gummy, reddish-brown substance.",
+        "positive": "Stem lesions on melons exude a gummy, red-brown substance"
+    },
+    {
+        "query": "The leaves on my gourd plants have a whitish growth on the underside.",
+        "positive": "Whitish growth of fungus is seen on lower surface of leaves and corresponding upper leaves show pale green areas separated by dark green areas The entire leaf dries up quickly."
+    },
+    {
+        "query": "My onion tips are drying up and the bulbs are getting soft and rotten.",
+        "positive": "Leaves turn yellow and then drying of leaf tip downwards. The bulb of the affected plant shows soft rotting and the roots get rotted."
+    },
+    {
+        "query": "Why are the veins on my bhendi (okra) leaves turning completely yellow?",
+        "positive": "Yellowing of the entire network of veins in the leaf blade and interveinal area becomes completely yellow or white."
+    },
+    {
+        "query": "My jasmine is producing weird green leafy things instead of flowers.",
+        "positive": "In the place of flowers green leaf like malformed flowers are formed."
+    },
+    {
+        "query": "What disease causes black spots with irregular, fuzzy borders on rose leaves?",
+        "positive": "The disease is characterized by the presence of black spot on the leaves. These spots are more or less circular in outline. They have a very irregular fibrillose border due to the radiating strands of mycelium which occur beneath the leaves and leaf buds which open late in the season."
+    },
+    {
+        "query": "What are these blackish-brown spots surrounded by a yellow halo on my chrysanthemum leaves?",
+        "positive": "Blackish-brown, circular to irregular spots surrounded by an yellow halo. They coalesce with one another and form large patches coalesce to form blotches covering major portion of the leaf."
+    },
+    {
+        "query": "Will planting cucumbers next to my squash cause cross-pollination and ruin the fruit?",
+        "positive": "Cross-pollination is not something most gardeners need to worry about, as it affects only the seeds and not the crop."
+    },
+    {
+        "query": "How much space do I need to leave between squash plants?",
+        "positive": "Bush types are ideal for gardeners with limited space, as they only need 2-4 feet between them. If the packet does not use the word \"bush\", assume the plant is a vine and needs at least 8 feet of space."
+    },
+    {
+        "query": "Why are my squash plants wilting during the day even though the soil is wet?",
+        "positive": "When Central Valley temperatures reach 100°F, plants may wilt-even if watered adequately. This is a temporary condition and plants should revive that night or by the next morning."
+    },
+    {
+        "query": "Is it okay to water squash plants with overhead sprinklers?",
+        "positive": "Sprinkler irrigation is not recommended when growing squash, as it won't provide deep water for the plants and may even encourage some diseases."
+    },
+    {
+        "query": "Why are the first flowers on my squash plant falling off without producing fruit?",
+        "positive": "The first few flowers on your squash plant may drop off, which is normal. This is because male flowers begin to bloom before female flowers."
+    },
+    {
+        "query": "How can I tell the difference between male and female squash flowers?",
+        "positive": "Male flowers can be recognized by their long, slender stem, while female flowers have a short stem and a small miniature fruit, or ovary, at the base of the flower."
+    },
+    {
+        "query": "What are these shiny, greenish-yellow beetles on my squash plants?",
+        "positive": "Cucumber beetles resemble lady beetles but are shiny and greenish-yellow. Their larvae feed exclusively on roots and usually don't cause substantial damage to the plant."
+    },
+    {
+        "query": "I found a brownish-black bug on my squash that smells bad when crushed, what is it?",
+        "positive": "Squash bugs are 5/8\" long with brownish black bodies. Abdomens may be orange or orange-striped. When crushed, this insect has a disagreeable odor."
+    },
+    {
+        "query": "My squash have leathery brown spots on the blossom end, what's wrong?",
+        "positive": "If fruit sets on the vine but begins to show small, light brown spots on the blossom end of the fruit that turn leathery, the problem may be \"blossom end rot.\""
+    },
+    {
+        "query": "What is the white fluffy stuff on my squash leaves?",
+        "positive": "All Cucurbits are susceptible to powdery mildew, a fungus with a fluffy, whitish cast. To control it, avoid the use of overhead sprinklers."
+    },
+    {
+        "query": "When is the best time to harvest zucchini?",
+        "positive": "Harvest summer squash when small for best flavor. Use a knife to cut fruit from the vine, leaving a small stem on the squash."
+    },
+    {
+        "query": "How do I know when winter squash is ready to pick?",
+        "positive": "Winter squash are ready to harvest when the rind hardens and the skin takes on a dull cast. Check the rind with a fingernail; if the skin can't be dented, the squash is ready."
+    },
+    {
+        "query": "How do I cure winter squash for storage?",
+        "positive": "To do this, place the squash in a dark place for 10 days at 80-85°F. Then, store in a dark, dry place at 50-60°F for several months."
+    },
+    {
+        "query": "Which squash blossoms are edible?",
+        "positive": "Pumpkin and zucchini blossoms are generally used. Winter squash blossoms are too bitter to be eaten."
+    },
+    {
+        "query": "How do I hand pollinate my squash?",
+        "positive": "Hand pollination can be done using a small paintbrush to transfer pollen from the male flower to the female flower."
+    },
+    {
+        "query": "What are the common tools used for pruning grapevines?",
+        "positive": "The tools commonly used for pruning are loppers, hand pruners and hand saws (Fig. 1). Hand pruners work well for pruning canes (one-year old wood). Loppers and hand saws are used for more mature wood (Brown and Gao, 2004)."
+    },
+    {
+        "query": "What is the purpose of shoot thinning grapevines?",
+        "positive": "Shoot thinning will reduce shoot density to the desired range of 3 to 5 shoots per foot of canopy (Reynolds and Wolf, 2008)."
+    },
+    {
+        "query": "Why is leaf removal performed on grapevines?",
+        "positive": "Selective leaf removal will improve air circulation in the canopy, increase fruit exposure and aid the penetration of pesticides into the canopy (Dami, et al., 2005; NC State University, 2007b)."
+    },
+    {
+        "query": "What is the most common type of injury for vineyard workers?",
+        "positive": "Among work-related injuries experienced by vineyard workers, the most common is the Musculoskeletal Disorders (MSD) resulting from repetitive stressing of body parts (Meyers, et al., 1998)."
+    },
+    {
+        "query": "What causes carpal tunnel syndrome in vineyard workers?",
+        "positive": "Carpal tunnel syndrome is a disease caused by the repetitive bending and twisting of hands during pruning and harvesting. This condition causes the tendons in the wrist to swell and compress against the median nerve as shown in Figure 5."
+    },
+    {
+        "query": "What are the symptoms of carpal tunnel syndrome?",
+        "positive": "Symptoms of carpal tunnel syndrome may include soreness and the swelling of hands and numbness in the fingers especially in the thumb, index and middle finger at night."
+    },
+    {
+        "query": "What are the health risks associated with over-exposure to pesticides?",
+        "positive": "Examples of common neurological disorders linked to over-exposure to pesticides and herbicides may include muscular weakness, mood disorders, anxiety, concentration problems, memory disorders, and Parkinson's disease."
+    },
+    {
+        "query": "What is transient hand paresthesia?",
+        "positive": "Transient hand paresthesia (tingling, tickling, pricking or burning sensation) is another hand-wrist injury common among the vineyard workers."
+    },
+    {
+        "query": "What is the main cause of lower back problems during grape harvesting?",
+        "positive": "Lower back disorders are particularly common during the harvesting season due to frequent bending over and lifting heavy loads (Fathallah, et al., 2008)."
+    },
+    {
+        "query": "How can daily exercises help prevent injuries for vineyard workers?",
+        "positive": "Stretch exercises (Fig. 7) at the start of each work day and periodically during work may also help prevent MSDs (Hermans, et al., 2009)."
+    },
+    {
+        "query": "What is the proper way to lift heavy loads to avoid back injury?",
+        "positive": "For ease in lifting and to prevent back injury during lifting, the load should be kept close to the body. When loads need to be rotated, make sure the body is turned with the load by turning on one's feet instead of twisting the body to protect the lower back (Hermans, et al., 2009)."
+    },
+    {
+        "query": "How do electric pruners help reduce injuries?",
+        "positive": "Electric pruners (Fig. 12) are effective in reducing the stress on hands and wrists during dormant pruning and thus the number of MSDs."
+    },
+    {
+        "query": "What are some stinging insect hazards in vineyards?",
+        "positive": "Ripe grapes attract bees, hornets, and wasps and these stinging insects pose a significant hazard to workers, particularly those who might be allergic to stings, and subject to anaphylaxis."
+    },
+    {
+        "query": "What is the recommended workbench height for light work to prevent injuries?",
+        "positive": "For men, the ideal height for light work is between 40 and 43 inches and for heavy tasks it is between 36 and 39 inches. The same for women range between 37 to 39 and 33 to 35 inches for light and heavy tasks, respectively."
+    },
+    {
+        "query": "What are the risks for tractor operators from low-frequency vibration?",
+        "positive": "Tractor operators experience MSDs and stomach problems due to exposure to low frequency vibration. Many tractors lack proper seat suspension systems that can isolate and protect the operator from the low frequency tractor vibration."
+    },
+    {
+        "query": "What pest burrows into corn seeds and stops them from growing?",
+        "positive": "The seedcorn maggot is pale, yellowish-white, legless and can reach 1/4 inch long. The maggot burrows into the seed, often destroying the germ. Damaged seeds may not germinate or may produce weak seedling."
+    },
+    {
+        "query": "I found hard-bodied, yellow, wire-like larvae in my soil. What are they?",
+        "positive": "Wireworms are slender, hard bodied, wire-like beetle larvae that are yellow to brown and range from 1/2 to 1-1/2 inches long."
+    },
+    {
+        "query": "Something is cutting my young corn plants off at ground level.",
+        "positive": "Small larvae eat irregular holes on leaves of seedlings, but larger larvae may cut plants off either above or below ground level."
+    },
+    {
+        "query": "What do corn flea beetles have to do with Stewart's wilt disease?",
+        "positive": "More important, corn flea beetles can transmit a bacterium that causes a disease named Stewart's wilt."
+    },
+    {
+        "query": "Why do my corn leaves have a series of holes in a straight line across them?",
+        "positive": "They bore through the unopened leaves so that as the leaves expand and elongate a series of holes appear across the blades."
+    },
+    {
+        "query": "What caterpillar eats corn leaves until they look ragged or are stripped down to the midrib?",
+        "positive": "They feed on the leaves of seedling and young corn, giving it a ragged appearance, or, under heavy pressure, eat everything except the midrib."
+    },
+    {
+        "query": "Why are my corn tassels covered in a sticky substance?",
+        "positive": "However, they secrete a sticky substance known as \"honeydew\" that can coat the anthers and reduce the amount of pollen that is dispersed."
+    },
+    {
+        "query": "How can I identify a fall armyworm caterpillar?",
+        "positive": "The head has a prominent, white, inverted, Y-shaped line. There are also four black spots arranged in a rectangle on the back of the last body segment."
+    },
+    {
+        "query": "What pest chews large, ragged holes into the side of the corn ear?",
+        "positive": "Larvae will enter the ear at the tip or through the side making a large, ragged hole."
+    },
+    {
+        "query": "How do I know if I have European corn borers?",
+        "positive": "The larvae are flesh-colored with small, round, dark spots on each of the body segments. Mature larvae are about 1 inch long."
+    },
+    {
+        "query": "What pest is eating the kernels at the tip of my sweet corn?",
+        "positive": "There they feed, consuming kernels and fouling the kernels with excrement. Frequently, the damage will be confined to the terminal inch."
+    },
+    {
+        "query": "Where do corn earworm moths lay their eggs?",
+        "positive": "Moths prefer to lay eggs singly on fresh, green silks."
+    },
+    {
+        "query": "How do I know if my corn has western bean cutworms?",
+        "positive": "Mature caterpillars will have 2 brown rectangles on the plate behind the head."
+    },
+    {
+        "query": "I found several caterpillars inside one corn ear. What are they?",
+        "positive": "There may be 3 or more caterpillars per ear unlike corn earworm that usually has 1 or 2 caterpillars per ear."
+    },
+    {
+        "query": "Do Bt sweet corn varieties control earworms effectively?",
+        "positive": "Some of the newer Bt varieties have multiple genes for earworm control (as well as European corn borer and other caterpillar pests) and in many situations these will provide excellent levels of control."
+    },
+    {
+        "query": "Do squash and cucumber plants have both male and female flowers?",
+        "positive": "Squash, melons, and cucumbers belong to the same family, often called \"cucurbits,\" and have a flowering habit which is unique among the vegetable crops. They bear two kinds of flowers, male and female, both on the same plant."
+    },
+    {
+        "query": "Can wind pollinate my squash plants if there are no bees?",
+        "positive": "In order for fruit set to occur, pollen from the male flower must be transferred to the female flower. The pollen is sticky; therefore, wind-blown pollination does not occur."
+    },
+    {
+        "query": "What insects are needed to pollinate cucumbers?",
+        "positive": "Honeybees are the principal means by which pollen is transferred from the male to the female flower. Other insects cannot be depended upon for pollination."
+    },
+    {
+        "query": "Why are my melons misshapen and the yield is low?",
+        "positive": "If only a few bees are present in the area, partial pollination may occur, resulting in misshapen fruit and low yield."
+    },
+    {
+        "query": "How can I pollinate my squash by hand if there are no bees?",
+        "positive": "You can use a small artist's paintbrush to transfer pollen, or you can break off a male flower, remove its petals to expose the pollen-bearing structure, and roll the pollen onto the stigma in the center of the female flower."
+    },
+    {
+        "query": "When is the best time of day to hand pollinate cucurbits?",
+        "positive": "When hand pollinating, it is important to use only freshly opened flowers. Flowers open early in the morning and are receptive for only one day."
+    },
+    {
+        "query": "How do I identify a female flower on my squash or cucumber plant?",
+        "positive": "The female flower in cucurbits can be recognized easily by the presence of a miniature fruit (ovary) at the base of the flower."
+    },
+    {
+        "query": "What does a male squash flower look like compared to a female one?",
+        "positive": "The male squash flower can be identified by its long, slender stem. The female squash flower is borne on a very short stem."
+    },
+    {
+        "query": "How can I tell the difference between male and female melon flowers?",
+        "positive": "In melons and cucumbers, male flowers have very short stems and are borne in clusters of three to five. while the females are borne singly on somewhat longer stems."
+    },
+    {
+        "query": "Why are the first flowers on my cucurbit plants falling off without setting fruit?",
+        "positive": "Gardeners often become concerned when many flowers appear early but fruits fail to set. The reason for this is that all of the early flowers are males."
+    },
+    {
+        "query": "Why isn't my hybrid summer squash setting fruit even though it has flowers?",
+        "positive": "In hybrid varieties of summer squash, however, the first flowers to appear are usually females and these will fail to develop unless there are male squash flowers - and bees in the nearby area."
+    },
+    {
+        "query": "Will my cucumbers cross-pollinate with my melons?",
+        "positive": "A common misconception is that squash, melons, and cucumbers will cross-pollinate. This is not true; the female flowers of each can be fertilized only by pollen from that same species."
+    },
+    {
+        "query": "Can different types of squash cross-pollinate each other?",
+        "positive": "Varieties within each species, however, will cross-pollinate. Thus, zucchini squash will cross with crookneck or acorn squash"
+    },
+    {
+        "query": "What happens if I plant seeds saved from cross-pollinated squash?",
+        "positive": "When more than one variety of a particular cucurbit is grown in the garden, they will readily cross, and seed saved from these plants will produce fruit which will be different from either of the parents."
+    },
+    {
+        "query": "Why is there no fruit set on my garden cucumbers?",
+        "positive": "When bees are absent, fruit set on garden plants in the cucurbit family is very poor and often nonexistent."
+    },
+    {
+        "query": "What is the most important fungal disease affecting grapevines globally?",
+        "positive": "Powdery mildew is, without a doubt, the most important fungal disease of grapevine worldwide."
+    },
+    {
+        "query": "What causes downy mildew on grapes?",
+        "positive": "Downy mildew is caused by an oomycete (fungal-like) pathogen and thrives in warm, humid regions."
+    },
+    {
+        "query": "Where does the black rot fungus survive over the winter?",
+        "positive": "Black rot overwinters in mummified fruit (\"mummies\") in the vine and on the ground."
+    },
+    {
+        "query": "Why do my rotting grapes smell like vinegar?",
+        "positive": "Sour rot is called sour rot for a reason, and earns its name from the pungent vinegar smell the rotting clusters give off."
+    },
+    {
+        "query": "What is the cause of Botrytis bunch rot, also known as grey mold?",
+        "positive": "Botrytis bunch rot, or grey mold, is caused by the necrotrophic fungus Botrytis cinerea and is one of the most important grape diseases worldwide."
+    },
+    {
+        "query": "When is the most critical time to control for Phomopsis on grapes?",
+        "positive": "Outside of dormant sprays, the critical control period for Phomopsis is the earliest of all the early season diseases, 1-5\" shoot growth, and is frequently the first spray made of the season."
+    },
+    {
+        "query": "What is the best way to manage a severe anthracnose problem on grapevines?",
+        "positive": "A liquid lime sulfur dormant spray is the most reliable and effective management option for established, difficult to control populations."
+    },
+    {
+        "query": "Are fruit flies involved in causing sour rot on grapes?",
+        "positive": "In order to get sour rot, you need a wounded grape, a yeast to ferment the sugars and generate ethanol, acetic acid bacteria to convert that ethanol into vinegar, and fruit flies."
+    },
+    {
+        "query": "Is there resistance to Revus fungicide for downy mildew in New York?",
+        "positive": "FRAC-40 (e.g. Revus) resistance is COMMON in NY downy mildew populations and is growing in prevalence."
+    },
+    {
+        "query": "How does opening up the grape canopy help with powdery mildew?",
+        "positive": "Maintaining an open canopy that allows sunlight to penetrate into the canopy will reduce disease pressure, but will not replace the need for chemical control."
+    },
+    {
+        "query": "What are the most crucial spray times to prevent early season grape diseases?",
+        "positive": "The four most critical sprays for early season disease management for downy mildew, powdery mildew, and black rot are immediate pre-bloom, bloom, 1-2 weeks post-bloom, and pea-sized fruits."
+    },
+    {
+        "query": "What are biopesticides made from?",
+        "positive": "Biopesticides are products derived from such natural materials as animals, plants, bacteria, and certain minerals."
+    },
+    {
+        "query": "Why is it important to remove mummified berries from the vines for black rot control?",
+        "positive": "Canopy mummies will produce 10-20x more spores than mummies on the ground, and will continue to do so beginning from bud break through version."
+    },
+    {
+        "query": "Can Botrytis infect grapes at bloom time?",
+        "positive": "Though Botrytis can only start to cause disease once berries begin to ripen, the fungus can gain entry to young fruit around bloom resulting in latent infections."
+    },
+    {
+        "query": "Can ultraviolet light be used to control powdery mildew?",
+        "positive": "Nighttime UVC applied twice weekly by the robots at 200 J/m2 provided excellent suppression of powdery mildew on leaves and fruit under severe disease pressure."
+    },
+    {
+        "query": "Why do I need to put the black plastic down before I plant my squash?",
+        "positive": "Lay plastic at least one week prior to planting to help increase soil temperature."
+    },
+    {
+        "query": "How do I get my indoor squash plants ready to go outside?",
+        "positive": "Condition or \"harden off\" transplants for a short time each day by exposing them to cool temperatures (60-65°F) for 1 week prior to transplanting."
+    },
+    {
+        "query": "Will a high tunnel keep my squash alive if it freezes hard outside?",
+        "positive": "Frost protection in a tunnel is limited to 2-3°F and helps plants survive temperatures to about 30°F when outside temperatures are near freezing."
+    },
+    {
+        "query": "Should I fertilize my squash all at once or a little bit at a time?",
+        "positive": "Making several nitrogen fertilizer applications during the growing season allows for less leaching, generally improves plant growth and yield and may reduce total nitrogen needs."
+    },
+    {
+        "query": "What's the best way to stop bugs from taking over my squash plants?",
+        "positive": "Management includes scouting and early detection, growing healthy plants, and properly timed insecticide applications."
+    },
+    {
+        "query": "Why are my squash plants getting moldy inside the tunnel?",
+        "positive": "High tunnels trap warm humid air which can promote disease. Disease resistant varieties, proper soil drainage, good ventilation, and crop rotation aid in disease prevention."
+    },
+    {
+        "query": "Should I pull the squash off the vine or cut it?",
+        "positive": "Fruits are commonly cut off the vines and flowers can be removed or left on prior to marketing."
+    },
+    {
+        "query": "How big should yellow crookneck squash be when I pick them?",
+        "positive": "Harvest crookneck and straightneck types when fruits are 1 to 2 inches in diameter and scallop types at 3 to 4 inches in diameter."
+    },
+    {
+        "query": "Why do my zucchini get soft and wrinkly so fast after I pick them?",
+        "positive": "Deterioration is rapid since young fruits dry out quickly in storage and are quite sensitive to chilling injury."
+    },
+    {
+        "query": "I see tiny green bugs and weird looking leaves on my squash, what's wrong?",
+        "positive": "Aphids cause poor plant growth and transmit virus diseases. While they appear later in the year in field grown squash, early season populations have been noted in tunnel houses."
+    },
+    {
+        "query": "Where do weeds usually pop up in a high tunnel?",
+        "positive": "The edges of the high tunnel (by the walls) are the primary weed problem areas since foot traffic keeps weeds down in the walkways and water is only being applied under plastic mulch."
+    },
+    {
+        "query": "Can I get just as many squash if I grow them organically instead of using regular fertilizer?",
+        "positive": "Marketable yield of organically grown squash was similar to those grown with conventional fertilizers in the spring and fall of 2007 and the spring of 2008"
+    },
+    {
+        "query": "My squash plants are too cold inside the tunnel, what else can I do to protect them?",
+        "positive": "Row cover cloth can be laid directly on the plants and left on during establishment"
+    },
+    {
+        "query": "How often do squash plants need water?",
+        "positive": "Squash require regular, uniform watering during the growing season."
+    },
+    {
+        "query": "Do I really need to worry about weeds if I use a high tunnel?",
+        "positive": "Weeds promote pests and compete with squash for water, nutrients, and light, especially when squash plants are small."
+    },
+    {
+        "query": "My potatoes have these shallow brown or purple spots on the skin, what is it?",
+        "positive": "Infected potatoes have shallow, brownish or purplish lesions on the surface of the tuber."
+    },
+    {
+        "query": "When I cut my potatoes, there is a dry reddish rot just under the skin.",
+        "positive": "If you cut across the surface of these infected areas, you'll see a reddish-brown, dry, granular rot that extends up to half an inch into the flesh."
+    },
+    {
+        "query": "The tomatoes have big, dark, greasy-looking rough spots on them.",
+        "positive": "On tomato fruit, late blight causes a firm, dark, greasy looking lesion from which the pathogen spore producing structures emerge under humid conditions."
+    },
+    {
+        "query": "There's a white fuzzy mold on the undersides of my potato leaves when it's damp out.",
+        "positive": "Under humid conditions, delicate, whitish growth (pathogen spores) are produced at the edge of the lesion, particularly on the underside of the leaf."
+    },
+    {
+        "query": "How does this blight disease survive the winter to come back next year?",
+        "positive": "Late blight is caused by an oomycete pathogen that survives from one season to the next in infected potato tubers."
+    },
+    {
+        "query": "Is it okay to throw my rotten potatoes in the compost pile?",
+        "positive": "make sure any potatoes put into compost piles are completely decomposed (rotted)"
+    },
+    {
+        "query": "What kind of potatoes can I plant that won't get blight as badly?",
+        "positive": "Currently, \"Defender\" and \"Elba\" are the most resistant varieties available. Potato varieties with moderate levels of resistance include: Kennebec, Sebago, and Allegany."
+    },
+    {
+        "query": "Do I have to spray for blight before I see it, or can I wait until the plants look sick?",
+        "positive": "For home gardeners the only available fungicides that are effective against late blight are protectant materials, which means that they must be on the foliage before spores land on leaves and initiate infection."
+    },
+    {
+        "query": "What should I look for on the label when buying a spray for tomato blight?",
+        "positive": "Choose a fungicide that has maneb, mancozeb, chlorothalonil, or fixed copper as an active ingredient AND has tomato and potato late blight on the label."
+    },
+    {
+        "query": "What's the best weather for ripping out my blighted tomato plants so it doesn't spread?",
+        "positive": "If possible, destroy infected plants on a dry, sunny day when dislodged spores will die quickly."
+    },
+    {
+        "query": "Does hilling up dirt around my potato plants help stop the tubers from rotting?",
+        "positive": "Hill up soil around the base of potato plants to provide a barrier to spores that can wash through the soil."
+    },
+    {
+        "query": "How long should I wait to dig my potatoes after the tops die off?",
+        "positive": "Vines should be dead 2-3 weeks before digging potatoes for storage."
+    },
+    {
+        "query": "Can my petunia flowers catch the same blight as my tomatoes?",
+        "positive": "Other plants that late blight may infect include petunia, nightshades, and tomatillos."
+    },
+    {
+        "query": "I'm seeing greasy brown spots on the stems of my potato plants where the leaves attach.",
+        "positive": "On stems, late blight causes brown, greasy looking lesions that frequently appear first at the junction between the stem and leaf, or at the cluster of leaves at the top of the stem."
+    },
+    {
+        "query": "Is this the same disease that caused the big potato famine in Ireland?",
+        "positive": "Late blight was a factor in the Irish potato famine in the 1850's, during which millions of people in Ireland starved or were forced to emigrate."
+    },
+    {
+        "query": "My tomatoes have weird scarring and deformed shapes, what is causing this?",
+        "positive": "Scouting this week in heated greenhouses turned up cat facing on tomatoes (Fig. 1). The exposed seeds, zippers, and other fruit malformation occurs when temperatures are 60° to 65°F during the day and 50° to 55°F at night."
+    },
+    {
+        "query": "My tomato plants are wilting and the stems are hollowed out, what is it?",
+        "positive": "White mold, caused by the fungus Sclerotinia sclerotiorum, was confirmed in several greenhouses as well. Pruning wounds are often the entry point for the disease, which hollows out the stem, producing more sclerotia (Fig. 2). The plant then wilts."
+    },
+    {
+        "query": "How can I reduce white mold in my tomatoes?",
+        "positive": "To reduce white mold: Prune suckers as small as possible to reduce wound size. Trellis with clips instead of twisting twine around the stem. Mulch uncovered soil in the spring with straw or ground cover to prevent sclerotia germination. Manage for low relative humidity. Remove infected plants without spilling sclerotia."
+    },
+    {
+        "query": "When should I spray my snap beans for mold?",
+        "positive": "If the weather is conducive to disease, Dr. Dillard (Cornell) recommends two fungicide applications: first at about 10-40% bloom (since % bloom increases about 20% per day) and a few days later (100% bloom) according to weather conditions and label limitations."
+    },
+    {
+        "query": "What fungicides work best for white mold on snap beans?",
+        "positive": "In a 2009 summary of research trials over a 10 year period Topsin M provided effective WM control 90% of the time. Endura was effective on GM in 81% of the trials. A tank mix of Topsin M (0.7 lb or 14 fl oz) and Endura (5.5 or 5.9 oz) provided effective control of GM (86%) and WM (95%) in 20 trials."
+    },
+    {
+        "query": "How do I know if my beans have Phytophthora blight instead of white mold?",
+        "positive": "If you think your white mold control isn't working, you could be dealing with Phytophthora blight instead. Look for dying leaves and foliage where heavy downpours occurred. When it gets on the pods, they become whitish and shriveled."
+    },
+    {
+        "query": "When should I treat my sweet corn for European corn borer?",
+        "positive": "Scout tassel emergence stage fields for larvae and feeding damage in the emerging tassel. The treatment threshold at tassel emergence is 15% infested plants."
+    },
+    {
+        "query": "What tomatoes are resistant to early blight and late blight?",
+        "positive": "Current varieties with duel resistance included: Mt. Merit, Defiant PhR (both lrg red); Mt. Magic (Campari); Plum Regal (plum)"
+    },
+    {
+        "query": "What cover crops can I plant in late June or July to improve my soil?",
+        "positive": "Buckwheat needs to grow just 40 days while sudangrass needs 60-70 days to be effective. A good stand of buckwheat suppresses weeds, improves soil tilth in the topsoil, and produces more biomass than any other cover crop in the short time it grows."
+    },
+    {
+        "query": "When should I mow my summer cover crops?",
+        "positive": "Mow both buckwheat and sudangrass at 40 days from planting. For buckwheat this is essential to prevent it from going to seed."
+    },
+    {
+        "query": "What is the best fungicide for botrytis leaf blight on onions?",
+        "positive": "Scala 9 fl oz + Bravo 1.5 pt was the best performing tank mix for both BLB and PB and can do a great job of providing season-long control of BLB and PB, which is why this is my top recommendation!"
+    },
+    {
+        "query": "How do I control onion thrips in cabbage?",
+        "positive": "When onion thrips-tolerant varieties are not an option, the most effective insecticide is Admire with the active ingredient imidacloprid."
+    },
+    {
+        "query": "What can I use to control squash vine borer organically?",
+        "positive": "While cultural practices can help, especially disking in abandoned crops to prevent larvae from maturing and overwintering, a trial conducted last season showed that two products allowed for organic production, a Bt aizaiwi product (we used Agree, Xentari is another option) and Entrust both provided reasonably good control."
+    },
+    {
+        "query": "My potatoes have blemishes on the skin that look like silver scurf, what else could it be?",
+        "positive": "From Tom Zitter, Cornell: Black dot (BD) produces surface blemishes on tubers similar to silver scurf. The fungus infects foliage as well as tubers, stolons and roots. Infected plants may die early."
+    },
+    {
+        "query": "Why are my snap bean flowers falling off?",
+        "positive": "High temperatures cause flower buds and flowers to drop off prior to pollination. They may also result in the abortion of young pods and poor seed development."
+    },
+    {
+        "query": "What do full-grown squash bugs look like?",
+        "positive": "Adults are winged and grayish brown with a flat back (Figure 2). The edges of the abdomen and underside of the insect have orange to orange-brown stripes."
+    },
+    {
+        "query": "I found clumps of brownish-red eggs under my pumpkin leaves, what are they?",
+        "positive": "Squash bug eggs (Figure 3) are 1/16 inch long and laid in groups or clusters. Eggs are bronze to brick red and are usually found in groups of 15 to 40 on the undersides of leaves or stems"
+    },
+    {
+        "query": "What do the baby bugs look like when they first hatch?",
+        "positive": "Nymphs (immature stage) hatch 1 to 2 weeks later and are wingless, spiderlike, and often covered with a whitish powder"
+    },
+    {
+        "query": "My squash plants are wilting and turning yellow even though they have water, what's wrong?",
+        "positive": "Heavy bug feeding interrupts the flow of water and nutrients in the xylem and plants begin to collapse and wilt (Figure 6), and the point of attack becomes black and brittle."
+    },
+    {
+        "query": "Are these bugs carrying diseases that hurt my melons?",
+        "positive": "overwintering squash bugs can harbor and transmit a bacterium, the causal agent of cucurbit yellow vine disease, when they feed on the plant's sap."
+    },
+    {
+        "query": "Why are my young squash falling off the vine or growing weird shapes?",
+        "positive": "During the summer, squash bugs routinely feed from sheltered areas on the undersides of fruit. This can cause young fruit to abort or become misshapen, and can cause scarring on the surface of the fruit as it expands."
+    },
+    {
+        "query": "What's the best way to keep these bugs out of my garden next year?",
+        "positive": "The best cultural strategy for squash bug control is prevention through sanitation. Remove old cucurbit plants after harvest. Keep the garden free from rubbish and debris that can provide overwintering sites for squash bugs."
+    },
+    {
+        "query": "Is there a way to trap squash bugs without using chemicals?",
+        "positive": "Place wooden boards throughout the garden and check under them every morning and handpick or vacuum any bugs found under the wooden boards."
+    },
+    {
+        "query": "Will growing my melons on a trellis help keep the bugs off?",
+        "positive": "Growing vining types of squash and melons on a trellis can make them less vulnerable to squash bug infestation compared to the bush types."
+    },
+    {
+        "query": "Are there any types of squash that these bugs don't bother as much?",
+        "positive": "Some squash varieties, including Butternut, Royal Acorn, and Sweet Cheese, are more resistant to squash bugs."
+    },
+    {
+        "query": "Are there any good bugs that will eat these squash bugs for me?",
+        "positive": "The parasitic tachinid fly, Trichopoda pennipes, (Figure 7) which lays its eggs on squash bugs, has been introduced into California and may be found in some gardens."
+    },
+    {
+        "query": "Why is it so hard to kill these bugs with sprays?",
+        "positive": "Squash bugs are difficult to kill using insecticides because egg masses, nymphs, and bugs are often hidden near the crown of the plant and difficult to reach with sprays."
+    },
+    {
+        "query": "If I use stronger pesticides, will it hurt my bees?",
+        "positive": "Other more toxic pesticides are also registered for use on squash bugs; however, these materials should be used with caution since they can harm the bees that are required for squash pollination"
+    },
+    {
+        "query": "What happens if squash bugs feed on my pumpkins while they are sitting on the ground?",
+        "positive": "Feeding wounds on the underside of the fruit, in combination with warm weather and high humidity from irrigation, can allow for the entry of opportunistic pathogens. This causes the undersides of pumpkins, gourds, and other fruit that sit on the ground to rot or decay"
+    },
+    {
+        "query": "How can I tell the difference between a squash bug and a stink bug?",
+        "positive": "Squash bugs and stink bugs are similar in shape, and both have disagreeable odors when crushed or disturbed. Generally, stink bugs are wider and rounder than squash bugs."
+    },
+    {
+        "query": "My potato plants are stunted, and the stems are black and rotting from the seed piece upwards. What's wrong?",
+        "positive": "Blackleg symptoms include soft rot of seed pieces, black to brown discoloration of the stem extending from the seed piece to above ground portions of the stem, and stunting and wilting of affected stems [cite: 1798]"
+    },
+    {
+        "query": "How can I tell the difference between blackleg and that other stem rot?",
+        "positive": "Aerial stem rot is differentiated from blackleg by occurring higher up the stem and spreading downward, whereas blackleg occurs from the ground up. [cite: 1818]"
+    },
+    {
+        "query": "What's the best way to manage stem rot after a hail storm?",
+        "positive": "The use of copper-based fungicides with or without mancozeb is recommended after hail events. [cite: 1838]"
+    },
+    {
+        "query": "Why are my potatoes turning into a soft, mushy, tan-colored mess?",
+        "positive": "Symptoms of soft rot are characterized by soft, mushy decay of tuber tissue. [cite: 1852] [cite_start]Rotted tissues are typically cream to tan in color. [cite: 1853]"
+    },
+    {
+        "query": "Why do my rotting potatoes smell so foul?",
+        "positive": "Initial decay is relatively odorless, but as other bacteria begin to grow within the rotted tissue, the odor will become foul. [cite: 1854]"
+    },
+    {
+        "query": "How long should I let my potatoes 'cork over' in storage to prevent rot?",
+        "positive": "Properly suberize potatoes by initial storage at high humidity with good ventilation (no wet surfaces) at 50-55°F for 10-14 days. [cite: 1873]"
+    },
+    {
+        "query": "My potato plants are wilting from the bottom up, and the leaf edges are rolling.",
+        "positive": "Above ground symptoms include wilting starting with lower leaves, rolling of leaf margins, interveinal chlorosis and necrosis (Figure 4). [cite: 1893]"
+    },
+    {
+        "query": "I cut open a potato and squeezed it, and a creamy, cheesy ooze came out of the ring. What is this?",
+        "positive": "When the cut tuber is squeezed, a cheesy, cream-colored exudate can be expressed from the vascular system. [cite: 1900]"
+    },
+    {
+        "query": "Does common scab get worse when it's hot and dry?",
+        "positive": "Unlike other bacterial diseases, this pathogen is favored by warm (>70°F), dry soils. [cite: 1968]"
+    },
+    {
+        "query": "Is it safe to spread fresh manure on my potato field, or will it cause scab?",
+        "positive": "Growers should avoid spreading un-composted animal manure, as fresh manure can increase soil populations of S. scabies. [cite: 1972]"
+    },
+    {
+        "query": "What are these tiny, dark, round dead spots on my potato leaves, about an eighth of an inch wide?",
+        "positive": "Early symptoms consist of small, dark round necrotic lesions ranging in size from pinpoint to ⅛-inch in diameter. [cite: 1985]"
+    },
+    {
+        "query": "My potato leaves have dark spots that look like a bull's-eye or a target. What disease is this?",
+        "positive": "Foliar lesions are dark spots. [cite_start]Within the lesion, concentric rings of ridged and depressed tissue form in a target pattern. [cite: 2018]"
+    },
+    {
+        "query": "How do my potatoes get infected with early blight when I'm digging them up?",
+        "positive": "Tubers are most often contaminated at harvest by spores in the soil or those originating from desiccated vines. [cite: 2029]"
+    },
+    {
+        "query": "My potatoes have a brown, dry, grainy rot that starts under the skin and goes deeper. What is it?",
+        "positive": "Tuber infection is characterized by brown, dry, and granular regions that begin superficially, but can then extend deeper into the tuber tissue. [cite: 2058]"
+    },
+    {
+        "query": "My potato leaves look like they've been dusted with white powder. What is this?",
+        "positive": "Powdery mildew forms distinctive white, powdery patches on leaves and stems (Figure 14). [cite: 2096]"
+    },
+    {
+        "query": "My potatoes have these shallow brown or purple spots on the skin, what is it?",
+        "positive": "Infected potatoes have shallow, brownish or purplish lesions on the surface of the tuber."
+    },
+    {
+        "query": "When I cut my potatoes, there is a dry reddish rot just under the skin.",
+        "positive": "If you cut across the surface of these infected areas, you'll see a reddish-brown, dry, granular rot that extends up to half an inch into the flesh."
+    },
+    {
+        "query": "The tomatoes have big, dark, greasy-looking rough spots on them.",
+        "positive": "On tomato fruit, late blight causes a firm, dark, greasy looking lesion from which the pathogen spore producing structures emerge under humid conditions."
+    },
+    {
+        "query": "There's a white fuzzy mold on the undersides of my potato leaves when it's damp out.",
+        "positive": "Under humid conditions, delicate, whitish growth (pathogen spores) are produced at the edge of the lesion, particularly on the underside of the leaf."
+    },
+    {
+        "query": "How does this blight disease survive the winter to come back next year?",
+        "positive": "Late blight is caused by an oomycete pathogen that survives from one season to the next in infected potato tubers."
+    },
+    {
+        "query": "Is it okay to throw my rotten potatoes in the compost pile?",
+        "positive": "make sure any potatoes put into compost piles are completely decomposed (rotted)"
+    },
+    {
+        "query": "What kind of potatoes can I plant that won't get blight as badly?",
+        "positive": "Currently, \"Defender\" and \"Elba\" are the most resistant varieties available. Potato varieties with moderate levels of resistance include: Kennebec, Sebago, and Allegany."
+    },
+    {
+        "query": "Do I have to spray for blight before I see it, or can I wait until the plants look sick?",
+        "positive": "For home gardeners the only available fungicides that are effective against late blight are protectant materials, which means that they must be on the foliage before spores land on leaves and initiate infection."
+    },
+    {
+        "query": "What should I look for on the label when buying a spray for tomato blight?",
+        "positive": "Choose a fungicide that has maneb, mancozeb, chlorothalonil, or fixed copper as an active ingredient AND has tomato and potato late blight on the label."
+    },
+    {
+        "query": "What's the best weather for ripping out my blighted tomato plants so it doesn't spread?",
+        "positive": "If possible, destroy infected plants on a dry, sunny day when dislodged spores will die quickly."
+    },
+    {
+        "query": "Does hilling up dirt around my potato plants help stop the tubers from rotting?",
+        "positive": "Hill up soil around the base of potato plants to provide a barrier to spores that can wash through the soil."
+    },
+    {
+        "query": "How long should I wait to dig my potatoes after the tops die off?",
+        "positive": "Vines should be dead 2-3 weeks before digging potatoes for storage."
+    },
+    {
+        "query": "Can my petunia flowers catch the same blight as my tomatoes?",
+        "positive": "Other plants that late blight may infect include petunia, nightshades, and tomatillos."
+    },
+    {
+        "query": "I'm seeing greasy brown spots on the stems of my potato plants where the leaves attach.",
+        "positive": "On stems, late blight causes brown, greasy looking lesions that frequently appear first at the junction between the stem and leaf, or at the cluster of leaves at the top of the stem."
+    },
+    {
+        "query": "Is this the same disease that caused the big potato famine in Ireland?",
+        "positive": "Late blight was a factor in the Irish potato famine in the 1850's, during which millions of people in Ireland starved or were forced to emigrate."
+    },
+    {
+        "query": "My red grape leaves are getting red blotches and the veins are turning red. What is it?",
+        "positive": "In red-fruited cultivars, common symptoms include red blotches originating from the leaf margin or within the leaf blade and primary and secondary veins that often turn red."
+    },
+    {
+        "query": "What does red blotch disease look like on my white grapevines?",
+        "positive": "In white fruit cultivars, symptoms appear as pale green to pale yellow patches."
+    },
+    {
+        "query": "Where do the red blotch symptoms first show up on the plant?",
+        "positive": "Symptoms usually start on basal leaves and progress up the shoot."
+    },
+    {
+        "query": "Can this red blotch disease kill my grapevines?",
+        "positive": "At this time, red blotch disease is not known to kill grapevines."
+    },
+    {
+        "query": "Does red blotch disease affect the sweetness of my grapes?",
+        "positive": "total soluble solids are consistently reduced in juice produced from fruit on diseased grapevines."
+    },
+    {
+        "query": "How did this virus spread all over the place?",
+        "positive": "The virus appears to have become widely spread through infected material used for propagation."
+    },
+    {
+        "query": "Is there an insect spreading red blotch in my vineyard?",
+        "positive": "The clustered and/or leading edge patterns of disease incidence in vineyards resemble that of movement by insects not commonly found feeding on grapevines; however, no vector has been identified to date."
+    },
+    {
+        "query": "How can I stop my new vines from getting red blotch?",
+        "positive": "Plant vines produced from GRBaV-tested scion and rootstock source material."
+    },
+    {
+        "query": "What should I do if I think my vines have red blotch?",
+        "positive": "In established vineyards, suspect grapevines showing red blotch symptoms should be flagged and tested by a commercial lab to confirm the presence of GRBaV."
+    },
+    {
+        "query": "Can I spray something to cure my vines of red blotch?",
+        "positive": "There is no \"cure\" for a virus infected vine at this time, and there are no chemicals known to control for GRBaV."
+    },
+    {
+        "query": "When do the leaves start showing signs of red blotch?",
+        "positive": "Leaf symptoms first appear approximately mid-summer; however, timing of symptom expression differs among grapevine cultivars and year."
+    },
+    {
+        "query": "Do the leaves turning red in the fall mean my vines have red blotch or leafroll?",
+        "positive": "Foliar symptoms are generally distinct from those of grapevine leafroll disease (GLD) early in the season, but leaf blade coloration may resemble those of GLD by late fall."
+    },
+    {
+        "query": "My Chardonnay leaves have burnt edges, is that red blotch?",
+        "positive": "In some cultivars, such as 'Chardonnay' and 'Zinfandel, marginal burning may occur similar to severe potassium deficiency."
+    },
+    {
+        "query": "If my vines have red blotch, should I pull them out?",
+        "positive": "If positive, a decision on whether to rogue and replant infected vines needs to be made. The epidemiology of GRBaV is not currently known, therefore the decision to rogue will likely be based on the economic impacts of GRBaV on fruit quality."
+    },
+    {
+        "query": "Is there a lab test to see if my vines have this virus?",
+        "positive": "The virus can be detected using a laboratory PCR test. Commercial testing is available from several plant virus testing laboratories in the USA."
+    },
+    {
+        "query": "My potatoes have these shallow brown or purple spots on the skin, what is it?",
+        "positive": "Infected potatoes have shallow, brownish or purplish lesions on the surface of the tuber. [cite: 2036]"
+    },
+    {
+        "query": "When I cut my potatoes, there is a dry reddish rot just under the skin.",
+        "positive": "If you cut across the surface of these infected areas, you'll see a reddish-brown, dry, granular rot that extends up to half an inch into the flesh. [cite: 2037]"
+    },
+    {
+        "query": "The tomatoes have big, dark, greasy-looking rough spots on them.",
+        "positive": "On tomato fruit, late blight causes a firm, dark, greasy looking lesion from which the pathogen spore producing structures emerge under humid conditions. [cite: 2052]"
+    },
+    {
+        "query": "There's a white fuzzy mold on the undersides of my potato leaves when it's damp out.",
+        "positive": "Under humid conditions, delicate, whitish growth (pathogen spores) are produced at the edge of the lesion, particularly on the underside of the leaf. [cite: 2045]"
+    },
+    {
+        "query": "How does this blight disease survive the winter to come back next year?",
+        "positive": "Late blight is caused by an oomycete pathogen that survives from one season to the next in infected potato tubers. [cite: 2074]"
+    },
+    {
+        "query": "Is it okay to throw my rotten potatoes in the compost pile?",
+        "positive": "make sure any potatoes put into compost piles are completely decomposed (rotted) [cite: 2099]"
+    },
+    {
+        "query": "What kind of potatoes can I plant that won't get blight as badly?",
+        "positive": "Currently, \"Defender\" and \"Elba\" are the most resistant varieties available. [cite: 2101] [cite_start]Potato varieties with moderate levels of resistance include: Kennebec, Sebago, and Allegany. [cite: 2102]"
+    },
+    {
+        "query": "Do I have to spray for blight before I see it, or can I wait until the plants look sick?",
+        "positive": "For home gardeners the only available fungicides that are effective against late blight are protectant materials, which means that they must be on the foliage before spores land on leaves and initiate infection. [cite: 2105]"
+    },
+    {
+        "query": "What should I look for on the label when buying a spray for tomato blight?",
+        "positive": "Choose a fungicide that has maneb, mancozeb, chlorothalonil, or fixed copper as an active ingredient AND has tomato and potato late blight on the label. [cite: 2108]"
+    },
+    {
+        "query": "What's the best weather for ripping out my blighted tomato plants so it doesn't spread?",
+        "positive": "If possible, destroy infected plants on a dry, sunny day when dislodged spores will die quickly. [cite: 2113]"
+    },
+    {
+        "query": "Does hilling up dirt around my potato plants help stop the tubers from rotting?",
+        "positive": "Hill up soil around the base of potato plants to provide a barrier to spores that can wash through the soil. [cite: 2118]"
+    },
+    {
+        "query": "How long should I wait to dig my potatoes after the tops die off?",
+        "positive": "Vines should be dead 2-3 weeks before digging potatoes for storage. [cite: 2119]"
+    },
+    {
+        "query": "Can my petunia flowers catch the same blight as my tomatoes?",
+        "positive": "Other plants that late blight may infect include petunia, nightshades, and tomatillos. [cite: 2071]"
+    },
+    {
+        "query": "I'm seeing greasy brown spots on the stems of my potato plants where the leaves attach.",
+        "positive": "On stems, late blight causes brown, greasy looking lesions that frequently appear first at the junction between the stem and leaf, or at the cluster of leaves at the top of the stem. [cite: 2050]"
+    },
+    {
+        "query": "Is this the same disease that caused the big potato famine in Ireland?",
+        "positive": "Late blight was a factor in the Irish potato famine in the 1850's, during which millions of people in Ireland starved or were forced to emigrate. [cite: 2072]"
+    },
+    {
+        "query": "What's the difference between all these types of sweet corn like 'sugary' and 'supersweet'?",
+        "positive": "Sweet corn varieties are categorized by their genotypes. The most common varieties are: Normal or sugary (su)... Sugar enhanced (se)... Supersweet or shrunken (sh2)"
+    },
+    {
+        "query": "Can I plant my 'supersweet' corn next to my regular sweet corn?",
+        "positive": "It is essential to isolate these varieties from all other corn types."
+    },
+    {
+        "query": "Does 'supersweet' corn stay fresh longer after I pick it?",
+        "positive": "These varieties have a slow sugar conversion to starch, so ear quality at harvest will hold for seven to 10 days."
+    },
+    {
+        "query": "Will putting clear plastic mulch on the ground help my sweet corn grow faster?",
+        "positive": "Using clear, plastic mulch will speed the maturity of early plantings."
+    },
+    {
+        "query": "I'm thinking of using a row cover on my corn. What are the perks?",
+        "positive": "Floating row covers allow the use of standard row spacing, pose less danger of plant injury from high temperatures, are easier to use, and allow for the reuse of row covers for several seasons."
+    },
+    {
+        "query": "My supersweet (sh2) corn isn't coming up very well. What went wrong?",
+        "positive": "Sh2 varieties germinate poorly below 60°F and rough handling easily damages their seeds."
+    },
+    {
+        "query": "What's the standard spacing for planting sweet corn?",
+        "positive": "Row spacing for most sweet corn varieties is commonly 30 to 36 inches between rows, with plants spaced 8 to 12 inches within the row."
+    },
+    {
+        "query": "How many corn plants should I be aiming for in an acre?",
+        "positive": "The recommended plant population of sweet corn is between 15,000 to 21,000 plants per acre."
+    },
+    {
+        "query": "When's the best time to sidedress my corn with nitrogen?",
+        "positive": "Sidedress when corn is 6-12 inches high."
+    },
+    {
+        "query": "Why are my young corn seedlings turning purple?",
+        "positive": "Symptoms: Purpling of older leaves, usually on young plants. Causes: Acid and cold soils."
+    },
+    {
+        "query": "The edges of my corn leaves look burnt and tan. What's missing?",
+        "positive": "Symptoms: Leaf margins are tan, scorched, or have necrotic spots. Causes: Acid soils."
+    },
+    {
+        "query": "How long after the silks show up can I expect to pick my corn?",
+        "positive": "Under normal temperatures, most sweet corn varieties reach maturity 18 to 21 days after silking."
+    },
+    {
+        "query": "How do I know for sure if my sweet corn is ready to pick?",
+        "positive": "The pollination silks are dried. The kernels are still immature but are plump and appear \"milky,\" not doughy, when squeezed."
+    },
+    {
+        "query": "What's the best way to store my sweet corn right after picking?",
+        "positive": "Store harvested corn between 32°F and 40°F at 98 percent relative humidity."
+    },
+    {
+        "query": "How do I keep my tomato plants healthy?",
+        "positive": "There are several diseases affecting tomato caused by fungi, oomycetes, bacteria, viruses, and nematodes."
+    },
+    {
+        "query": "Can I get my tomato seeds treated for diseases?",
+        "positive": "Tomato seed can be treated with hot water which is especially useful for bacterial pathogens which can be inside seed."
+    },
+    {
+        "query": "Is it okay to grow my flowers and tomato seedlings in the same greenhouse?",
+        "positive": "Do not grow ornamental plants in the same greenhouse as tomato seedlings and manage weeds and thrips; these other plants can harbor viruses, notably tospoviruses, which thrips vector."
+    },
+    {
+        "query": "What's the best time of day to water my tomato seedlings?",
+        "positive": "Water during the day when foliage is dry and will quickly dry afterwards (morning is best); some pathogens are dispersed by splashing water and infect while the leaf surface is wet."
+    },
+    {
+        "query": "Is it bad to brush my tomato plants to make them stronger?",
+        "positive": "Brushing to obtain short plants with thick stems is a great way to spread pathogens, especially bacteria."
+    },
+    {
+        "query": "How should I clean my tomato stakes before using them again?",
+        "positive": "Power wash dirt off tomato stakes and then disinfect before re-using. This is especially important for bacterial pathogens."
+    },
+    {
+        "query": "How do I disinfect my tomato stakes?",
+        "positive": "Disinfect them with a quaternary ammonia product (best) or 10% bleach solution. Make sure stakes are completely submerged and not tightly bundled. Soak for at least 20 minutes."
+    },
+    {
+        "query": "Is it safe to reuse tomato stakes from a field that had bacterial canker?",
+        "positive": "Where bacterial canker developed it is recommended that the stakes be disposed of because it is difficult to eliminate all the bacteria by disinfecting contaminated stakes, and canker is more difficult to manage than other bacterial diseases."
+    },
+    {
+        "query": "How long should I wait before planting tomatoes in the same field again?",
+        "positive": "Select a field where tomatoes were not grown for at least 2 years (3 years when canker occurred)"
+    },
+    {
+        "query": "Should I use sprinklers or drip irrigation for my tomatoes?",
+        "positive": "Promote dry foliage by... using drip rather than overhead irrigation."
+    },
+    {
+        "query": "When should I start spraying my tomatoes for diseases?",
+        "positive": "A program will be more effective when started as soon as first symptoms are seen or before."
+    },
+    {
+        "query": "Can I spray fungicides *after* I see spots on the leaves?",
+        "positive": "This is because very few fungicides (and only conventional ones) have curative (kickback) activity, and curative activity is effective only on very recent infections."
+    },
+    {
+        "query": "How long does it take for spots to show up after the plant gets sick?",
+        "positive": "It typically takes about a week from infection until symptoms are visible for most diseases caused by fungi and bacteria."
+    },
+    {
+        "query": "Does rain wash off my fungicide sprays?",
+        "positive": "Two inches of water is considered the amount that will remove residue of most contact fungicides."
+    },
+    {
+        "query": "My sprayer has low pressure. Will that still work for spraying fungicides?",
+        "positive": "Large droplets are formed when pressure is low. These are more likely to run off leaves than small droplets, and large droplets provide less coverage than the same amount of fungicide solution in several small droplets."
+    }
+]
