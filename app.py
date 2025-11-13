@@ -1,27 +1,27 @@
 import streamlit as st
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-from langchain_huggingface import HuggingFaceEndpoint  # For the API connection
-from langchain_huggingface.chat_models import ChatHuggingFace  # For the chat wrapper
+from langchain_huggingface import HuggingFaceEndpoint
+from langchain_huggingface.chat_models import ChatHuggingFace
 from langchain_classic.chains import create_retrieval_chain
 from langchain_classic.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 import os
+from huggingface_hub import hf_hub_download # --- NEW IMPORT ---
 
-# --- Define Paths ---
-DB_PATH = "faiss_v2"                  # Using our smart v2 library
-MODEL_NAME = "goldenevil/agri-bot-model-v2" # Using our smart v2 model
+# --- DEFINE REPO & PATHS ---
+# This is the ONE place your app will get all its files
+HF_REPO_ID = "Your-HF-Username-Goes-Here/agri-bot-model-v2" 
+# (Remember to change this to your username, e.g., "goldenevil/agri-bot-model-v2")
+
+# We'll create a local folder on the cloud server for the index
+LOCAL_DB_PATH = "faiss_deployed" 
+
 
 # --- SAFE API Key Handling ---
-# This checks for your .streamlit/secrets.toml file
 if "HF_TOKEN" not in st.secrets:
-    st.error("You need to set your Hugging Face API token in a .streamlit/secrets.toml file.")
-    st.info("1. Create a folder named '.streamlit' in your project root.")
-    st.info("2. Inside it, create a file named 'secrets.toml'.")
-    st.info("3. Add this line: HF_TOKEN = 'hf_...your_new_token...'")
+    st.error("You need to set your Hugging Face API token in .streamlit/secrets.toml")
     st.stop() 
-
-# This sets the token for the API client to use
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = st.secrets["HF_TOKEN"]
 
 
@@ -33,49 +33,68 @@ def load_all():
     """
     print("Loading all components...")
     
-    # --- 1. Load the "Librarian" (Embedding Model) ---
-    print(f"Loading local embedding model from: {MODEL_NAME}")
+    # --- 1. DOWNLOAD THE DATABASE FILES ---
+    # This runs *first* to get the index files from the HF Hub
+    print(f"Downloading FAISS index from {HF_REPO_ID}...")
+    try:
+        hf_hub_download(
+            repo_id=HF_REPO_ID,
+            filename="index.faiss",
+            local_dir=LOCAL_DB_PATH,
+            token=st.secrets["HF_TOKEN"] # Pass token for auth
+        )
+        hf_hub_download(
+            repo_id=HF_REPO_ID,
+            filename="index.pkl",
+            local_dir=LOCAL_DB_PATH,
+            token=st.secrets["HF_TOKEN"]
+        )
+        print("FAISS index downloaded.")
+    except Exception as e:
+        print(f"Error downloading FAISS index: {e}")
+        raise e
+
+
+    # --- 2. Load the "Librarian" (Embedding Model) ---
+    # This will download the model from the *same* HF repo
+    print(f"Loading embedding model from {HF_REPO_ID}...")
     model_kwargs = {'device': 'cpu'}
     encode_kwargs = {'normalize_embeddings': True}
     embeddings = HuggingFaceEmbeddings(
-        model_name=MODEL_NAME,
+        model_name=HF_REPO_ID, # Use the repo ID directly
         model_kwargs=model_kwargs,
         encode_kwargs=encode_kwargs
     )
     
-    # --- 2. Load the "Library" (Vector Database) ---
-    print(f"Loading local vector store from: {DB_PATH}")
+    # --- 3. Load the "Library" (Vector Database) ---
+    # Now this path will work, because we just downloaded the files
+    print(f"Loading local vector store from: {LOCAL_DB_PATH}")
     db = FAISS.load_local(
-        DB_PATH, 
+        LOCAL_DB_PATH, 
         embeddings, 
         allow_dangerous_deserialization=True
     )
     
-    # Create the "Retriever"
     retriever = db.as_retriever(search_kwargs={"k": 3})
     
-    # --- 3. Load the "Student" (LLM) ---
-    # We are connecting to the Llama 3 8B Instruct model on the HF API
+    # --- 4. Load the "Student" (LLM) ---
     repo_id = "meta-llama/Meta-Llama-3-8B-Instruct" 
-    
-    print(f"Connecting to Hugging Face Endpoint: {repo_id}")
+    print(f"Connecting to Hugging Face LLM Endpoint: {repo_id}")
     llm = HuggingFaceEndpoint(
         repo_id=repo_id, 
         temperature=0.1,  
         max_new_tokens=512
     )
     
-    # --- 4. Wrap the LLM in a CHAT MODEL wrapper ---
-    # This formats our request as a "conversation"
     chat_model = ChatHuggingFace(llm=llm)
 
-    # --- 5. Create the "Instruction Sheet" (Chat Prompt Template) ---
+    # --- 5. Create the "Instruction Sheet" (Prompt Template) ---
     template = ChatPromptTemplate.from_messages([
         ("system", "You are a helpful assistant. Answer the user's question based only on the provided context. If the answer is not in the context, say 'I don't know'."),
         ("human", "Context:\n{context}\n\nQuestion:\n{input}")
     ])
     
-    # --- 6. Create the "Master Machine" (New RAG Chain) ---
+    # --- 6. Create the "Master Machine" (RAG Chain) ---
     document_chain = create_stuff_documents_chain(chat_model, template)
     retrieval_chain = create_retrieval_chain(retriever, document_chain)
     
@@ -84,29 +103,24 @@ def load_all():
 
 # --- Streamlit UI ---
 st.set_page_config(page_title="AI Agronomist's Assistant", layout="wide")
-st.title("🌱 AI Agronomist's Assistant (v2 - Custom Trained API)")
+st.title("🌱 AI Agronomist's Assistant (v2 - Custom Trained & Deployed)")
 
 # Load the RAG chain
 try:
     qa_chain = load_all()
 except Exception as e:
-    st.error(f"Error loading the model. Error: {e}")
+    st.error(f"Error loading components. This can happen on the first boot. Please try refreshing. Error: {e}")
     st.stop()
 
 # Chat Input
 question = st.text_input("Ask a question about your crop symptoms:")
 
 if question:
-    with st.spinner("Connecting to Hugging Face and finding an answer..."):
+    with st.spinner("Finding an answer..."):
         try:
-            # 1. Ask the "Master Machine"
             result = qa_chain.invoke({"input": question})
-            
-            # 2. Display the answer
             st.write("**Answer:**")
             st.write(result["answer"])
-            
-            # 3. (Optional) Display the sources
             st.write("**Sources:**")
             for doc in result["context"]:
                 st.info(f"Source: {doc.metadata['source']} (Page {doc.metadata.get('page', 'N/A')})")
@@ -114,8 +128,6 @@ if question:
                 
         except Exception as e:
             st.error(f"Error during inference: {e}")
-            
-            # This prints the full error to your TERMINAL for debugging
             print("\n--- FULL ERROR TRACEBACK ---")
             import traceback
             traceback.print_exc()
