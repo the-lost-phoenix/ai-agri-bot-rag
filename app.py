@@ -10,7 +10,7 @@ import os
 
 # --- Define Paths ---
 DB_PATH = "faiss_v2"                  # Using our smart v2 library
-MODEL_NAME = "./agri-bot-model-v2/" # Using our smart v2 model
+MODEL_NAME = "goldenevil/agri-bot-model-v2" # Using our smart v2 model
 
 # --- SAFE API Key Handling ---
 # This checks for your .streamlit/secrets.toml file
