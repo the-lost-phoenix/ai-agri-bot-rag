@@ -11,7 +11,7 @@ from huggingface_hub import hf_hub_download # --- NEW IMPORT ---
 
 # --- DEFINE REPO & PATHS ---
 # This is the ONE place your app will get all its files
-HF_REPO_ID = "Your-HF-Username-Goes-Here/agri-bot-model-v2" 
+HF_REPO_ID = "goldenevil/agri-bot-model-v2" 
 # (Remember to change this to your username, e.g., "goldenevil/agri-bot-model-v2")
 
 # We'll create a local folder on the cloud server for the index
